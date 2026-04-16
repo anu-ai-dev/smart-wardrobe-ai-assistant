@@ -30,6 +30,22 @@ AI-powered Smart Wardrobe Assistant built using Python and Gradio. This applicat
 
 ---
 
+## 📸 Application Preview
+
+### Outfit Recommendation
+![Outfit](./screenshot1.png)
+
+### Wardrobe Management
+![Wardrobe](./screenshot2.png)
+
+---
+
+## 🎥 Project Demo Video
+
+👉 [Click here to watch demo](https://drive.google.com/file/d/1agPG4DFnoY5pl7RbgLVo_TeKr19kVcrj/view?usp=drive_link)
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python  
