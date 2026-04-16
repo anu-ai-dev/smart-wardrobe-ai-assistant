@@ -4,6 +4,20 @@ AI-powered Smart Wardrobe Assistant built using Python and Gradio. This applicat
 
 ---
 
+## 🚀 Live Features Demonstration
+- Multi-feature AI wardrobe system
+- Modular architecture (7 independent features)
+- Interactive UI using Gradio
+
+---
+
+## 🧠 ML Concepts Used
+- Recommendation systems (rule-based + data-driven)
+- Data preprocessing
+- Feature-based filtering
+
+---
+
 ## 🚀 Features
 
 - User Management  
@@ -20,12 +34,10 @@ AI-powered Smart Wardrobe Assistant built using Python and Gradio. This applicat
 
 - Python  
 - Gradio (UI)  
+- NumPy, Pandas  
 - JSON / CSV (Data handling)  
+- Git & GitHub  
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python app.py
+## 📁 Project Structure
