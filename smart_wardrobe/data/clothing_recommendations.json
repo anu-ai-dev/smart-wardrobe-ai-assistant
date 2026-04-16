@@ -1,0 +1,608 @@
+{
+    "wedding": {
+      "indian": {
+        "female": {
+          "hot": {
+            "top": "Lightweight silk or georgette saree blouse, or breathable lehenga choli",
+            "bottom": "Light silk or georgette saree, lightweight lehenga, or elegant palazzo suit",
+            "shoes": "Comfortable embellished juttis, traditional sandals, or low heels",
+            "accessory": "Essential traditional jewelry (lighter pieces), decorative fan, and small embellished clutch"
+          },
+          "normal": {
+            "top": "Traditional saree blouse, embellished lehenga choli, or heavy work suit top",
+            "bottom": "Traditional silk saree, embroidered lehenga, or designer anarkali suit",
+            "shoes": "Embellished juttis, traditional heels, or decorated sandals",
+            "accessory": "Traditional gold/silver jewelry, embroidered clutch, and traditional dupatta"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight kurta, linen/cotton sherwani, or silk blend short kurta",
+            "bottom": "Matching lightweight pajama, churidar, or silk blend trousers",
+            "shoes": "Comfortable mojaris, traditional juttis, or formal leather sandals",
+            "accessory": "Minimal traditional accessories, light dupatta/stole, and traditional watch"
+          },
+          "normal": {
+            "top": "Traditional sherwani, heavy embroidered kurta, or designer bandhgala",
+            "bottom": "Matching churidar, traditional dhoti, or formal pajama",
+            "shoes": "Embellished mojaris, traditional juttis, or formal shoes",
+            "accessory": "Traditional safa/turban, embroidered dupatta/stole, and traditional brooch"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Traditional Indian wedding top appropriate for your gender expression",
+            "bottom": "Traditional Indian wedding bottom appropriate for your gender expression",
+            "shoes": "Traditional Indian footwear suitable for weddings",
+            "accessory": "Traditional Indian wedding accessories (lighter options for hot weather)"
+          },
+          "normal": {
+            "top": "Traditional Indian wedding top appropriate for your gender expression",
+            "bottom": "Traditional Indian wedding bottom appropriate for your gender expression",
+            "shoes": "Traditional Indian footwear suitable for weddings",
+            "accessory": "Traditional Indian wedding accessories"
+          }
+        }
+      },
+      "western": {
+        "female": {
+          "hot": {
+            "top": "Lightweight formal dress, elegant sleeveless gown, or breathable formal top",
+            "bottom": "Light formal skirt or the bottom part of a breathable formal dress",
+            "shoes": "Elegant open-toe heels, dressy sandals, or formal flats",
+            "accessory": "Minimal elegant jewelry, small clutch, and decorative fan"
+          },
+          "normal": {
+            "top": "Elegant formal dress, evening gown, or formal blouse with jacket",
+            "bottom": "Formal skirt or the bottom part of an evening gown/dress",
+            "shoes": "Formal heels, elegant pumps, or dressy flats",
+            "accessory": "Statement jewelry, elegant clutch, and formal wrap/shawl"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight suit jacket with light dress shirt, or formal linen shirt",
+            "bottom": "Lightweight formal trousers or linen dress pants",
+            "shoes": "Formal leather shoes or elegant loafers",
+            "accessory": "Minimal accessories - light tie or no tie, pocket square, and dress watch"
+          },
+          "normal": {
+            "top": "Formal suit jacket with dress shirt, or tuxedo for evening weddings",
+            "bottom": "Matching suit trousers or tuxedo pants",
+            "shoes": "Polished formal leather shoes or dress shoes",
+            "accessory": "Tie/bow tie, cufflinks, pocket square, and formal watch"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Formal attire top appropriate for Western weddings and your gender expression",
+            "bottom": "Formal attire bottom appropriate for Western weddings",
+            "shoes": "Formal footwear suitable for Western weddings",
+            "accessory": "Formal accessories appropriate for Western weddings (minimal for hot weather)"
+          },
+          "normal": {
+            "top": "Formal attire top appropriate for Western weddings and your gender expression",
+            "bottom": "Formal attire bottom appropriate for Western weddings",
+            "shoes": "Formal footwear suitable for Western weddings",
+            "accessory": "Formal accessories appropriate for Western weddings"
+          }
+        }
+      },
+      "middle_eastern": {
+        "female": {
+          "hot": {
+            "top": "Lightweight elegant abaya top, breathable kaftan, or formal cultural top",
+            "bottom": "Matching lightweight abaya bottom, formal cultural dress, or elegant pants",
+            "shoes": "Embellished formal sandals or breathable formal shoes",
+            "accessory": "Cultural jewelry, elegant head covering if appropriate, and small formal clutch"
+          },
+          "normal": {
+            "top": "Elegant abaya top, embellished kaftan, or formal cultural top",
+            "bottom": "Matching abaya bottom, formal cultural dress, or elegant pants",
+            "shoes": "Embellished formal sandals or closed formal shoes",
+            "accessory": "Cultural jewelry, elegant head covering if appropriate, and formal clutch"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight traditional thobe/dishdasha, light bisht for formal occasions, or breathable cultural formal wear",
+            "bottom": "Traditional lower part of thobe/dishdasha or formal cultural pants",
+            "shoes": "Traditional formal sandals or breathable formal shoes",
+            "accessory": "Traditional headwear (lightweight ghutra/keffiyeh with agal), formal watch"
+          },
+          "normal": {
+            "top": "Traditional thobe/dishdasha, bisht for formal occasions, or cultural formal wear",
+            "bottom": "Traditional lower part of thobe/dishdasha or formal cultural pants",
+            "shoes": "Traditional formal sandals or formal shoes",
+            "accessory": "Traditional headwear (ghutra/keffiyeh with agal), formal watch, and traditional accessories"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Lightweight formal Middle Eastern top appropriate for your gender expression",
+            "bottom": "Lightweight formal Middle Eastern bottom appropriate for your gender expression",
+            "shoes": "Breathable formal Middle Eastern footwear suitable for weddings",
+            "accessory": "Minimal formal Middle Eastern accessories appropriate for weddings"
+          },
+          "normal": {
+            "top": "Formal Middle Eastern top appropriate for your gender expression",
+            "bottom": "Formal Middle Eastern bottom appropriate for your gender expression",
+            "shoes": "Formal Middle Eastern footwear suitable for weddings",
+            "accessory": "Formal Middle Eastern accessories appropriate for weddings"
+          }
+        }
+      },
+      "east_asian": {
+        "female": {
+          "hot": {
+            "top": "Lightweight traditional qipao/cheongsam, breathable hanbok top, or elegant summer kimono",
+            "bottom": "Lower part of lightweight traditional dress or breathable formal cultural bottom",
+            "shoes": "Traditional formal sandals or elegant open formal shoes",
+            "accessory": "Minimal cultural jewelry, traditional hair accessories, and small formal cultural purse"
+          },
+          "normal": {
+            "top": "Traditional qipao/cheongsam, formal hanbok top, or elegant kimono",
+            "bottom": "Lower part of traditional dress or formal cultural bottom",
+            "shoes": "Traditional formal footwear or elegant formal shoes",
+            "accessory": "Cultural jewelry, traditional hair accessories, and formal cultural purse"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight traditional tangzhuang, breathable hanbok jacket, or light formal cultural top",
+            "bottom": "Matching lightweight traditional pants or breathable formal cultural bottom",
+            "shoes": "Traditional formal sandals or breathable dress shoes",
+            "accessory": "Minimal traditional cultural accessories and formal watch"
+          },
+          "normal": {
+            "top": "Traditional formal tangzhuang, hanbok jacket, or formal cultural top",
+            "bottom": "Matching traditional pants or formal cultural bottom",
+            "shoes": "Traditional formal shoes or elegant dress shoes",
+            "accessory": "Traditional cultural accessories and formal watch"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Lightweight formal East Asian top appropriate for your gender expression",
+            "bottom": "Lightweight formal East Asian bottom appropriate for your gender expression",
+            "shoes": "Breathable formal East Asian footwear suitable for weddings",
+            "accessory": "Minimal formal East Asian accessories appropriate for weddings"
+          },
+          "normal": {
+            "top": "Formal East Asian top appropriate for your gender expression",
+            "bottom": "Formal East Asian bottom appropriate for your gender expression",
+            "shoes": "Formal East Asian footwear suitable for weddings",
+            "accessory": "Formal East Asian accessories appropriate for weddings"
+          }
+        }
+      },
+      "generic": {
+        "female": {
+          "hot": {
+            "top": "Lightweight formal dress, elegant sleeveless top, or breathable formal blouse",
+            "bottom": "Light formal skirt, breathable formal pants, or elegant dress",
+            "shoes": "Elegant sandals, open-toe formal shoes, or dressy flats",
+            "accessory": "Elegant jewelry, small clutch, and possibly a decorative fan"
+          },
+          "normal": {
+            "top": "Formal blouse, elegant top, or formal dress upper part",
+            "bottom": "Formal skirt, elegant pants, or formal dress lower part",
+            "shoes": "Formal heels, elegant flats, or dressy shoes",
+            "accessory": "Elegant jewelry, formal clutch, and appropriate wrap/shawl"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight formal shirt, light blazer optional, or cultural formal wear",
+            "bottom": "Lightweight formal trousers or cultural formal bottom",
+            "shoes": "Formal leather shoes or cultural formal footwear",
+            "accessory": "Minimal accessories - perhaps just a formal watch"
+          },
+          "normal": {
+            "top": "Formal shirt with blazer or cultural formal top",
+            "bottom": "Formal trousers or cultural formal bottom",
+            "shoes": "Formal leather shoes or cultural formal footwear",
+            "accessory": "Formal accessories like tie, cufflinks, or cultural equivalents"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Lightweight formal top appropriate for weddings and your gender expression",
+            "bottom": "Lightweight formal bottom appropriate for weddings",
+            "shoes": "Breathable formal footwear suitable for weddings",
+            "accessory": "Minimal formal accessories appropriate for weddings"
+          },
+          "normal": {
+            "top": "Formal top appropriate for weddings and your gender expression",
+            "bottom": "Formal bottom appropriate for weddings",
+            "shoes": "Formal footwear suitable for weddings",
+            "accessory": "Formal accessories appropriate for weddings"
+          }
+        }
+      }
+    },
+    "festival": {
+      "indian": {
+        "female": {
+          "hot": {
+            "top": "Lightweight festive kurti, cotton silk blouse, or breathable festive top",
+            "bottom": "Comfortable lehenga, festive palazzo pants, or light festive skirt",
+            "shoes": "Comfortable embellished juttis, festive flats, or decorated sandals",
+            "accessory": "Colorful bangles, festive earrings, bindis, and light dupatta"
+          },
+          "normal": {
+            "top": "Traditional festive blouse, embroidered choli, or decorative kurti",
+            "bottom": "Festive lehenga, traditional ghagra, or embellished skirt",
+            "shoes": "Decorative juttis, embellished sandals, or festive footwear",
+            "accessory": "Traditional festive jewelry, embroidered dupatta, and festive clutch"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Light cotton kurta, festive shirt, or breathable traditional top",
+            "bottom": "Comfortable pajama, cotton dhoti, or light festive pants",
+            "shoes": "Comfortable mojaris, festive sandals, or traditional footwear",
+            "accessory": "Minimal festive accessories, light stole, or traditional cap"
+          },
+          "normal": {
+            "top": "Festive kurta, traditional jacket, or embroidered festive shirt",
+            "bottom": "Traditional dhoti, festive pajama, or cultural bottom wear",
+            "shoes": "Decorative mojaris, festive juttis, or traditional footwear",
+            "accessory": "Traditional headwear, festive stole, and cultural accessories"
+          }
+        },
+        "other": {
+          "hot": {
+            "top": "Lightweight traditional festive top appropriate for your gender expression",
+            "bottom": "Lightweight traditional festive bottom appropriate for your gender expression",
+            "shoes": "Comfortable traditional festive footwear",
+            "accessory": "Traditional festive accessories (lighter options for hot weather)"
+          },
+          "normal": {
+            "top": "Traditional festive top appropriate for your gender expression",
+            "bottom": "Traditional festive bottom appropriate for your gender expression",
+            "shoes": "Traditional festive footwear",
+            "accessory": "Traditional festive accessories"
+          }
+        }
+      },
+      "generic": {
+        "female": {
+          "hot": {
+            "top": "Lightweight colorful top, breathable festive blouse, or light decorative shirt",
+            "bottom": "Comfortable festive skirt, light decorative pants, or colorful shorts",
+            "shoes": "Comfortable decorative sandals, festive flats, or colorful footwear",
+            "accessory": "Festive jewelry, colorful accessories, and possibly a decorative fan"
+          },
+          "normal": {
+            "top": "Colorful festive top, decorative blouse, or patterned shirt",
+            "bottom": "Festive skirt, decorative pants, or patterned bottom",
+            "shoes": "Decorative footwear, colorful shoes, or festive sandals",
+            "accessory": "Festive jewelry, colorful accessories, and festive bag"
+          }
+        },
+        "male": {
+          "hot": {
+            "top": "Lightweight colorful shirt, breathable festive top, or light patterned t-shirt",
+            "bottom": "Comfortable festive pants, light decorative shorts, or colorful bottoms",
+            "shoes": "Comfortable festive footwear, decorative sandals, or colorful shoes",
+            "accessory": "Minimal festive accessories, colorful hat, or festive wristband"
+          },
+          "normal": {
+            "top": "Colorful festive shirt, decorative top, or patterned jacket",
+            "bottom": "Festive pants, decorative bottoms, or patterned trousers",
+            "shoes": "Decorative footwear, colorful shoes, or festive boots",
+            "accessory": "Festive accessories, colorful hat, or decorative belt"
+          }
+        },
+        "other": {
+            "hot": {
+              "top": "Lightweight colorful top appropriate for festivals and your gender expression",
+              "bottom": "Lightweight colorful bottom appropriate for festivals",
+              "shoes": "Comfortable festive footwear suitable for hot weather",
+              "accessory": "Minimal festive accessories appropriate for the celebration"
+            },
+            "normal": {
+              "top": "Colorful top appropriate for festivals and your gender expression",
+              "bottom": "Festive bottom appropriate for festivals",
+              "shoes": "Festive footwear suitable for the celebration",
+              "accessory": "Festive accessories appropriate for the celebration"
+            }
+          }
+        }
+      },
+      "religious_event": {
+        "indian": {
+          "female": {
+            "hot": {
+              "top": "Lightweight modest saree blouse, cotton salwar kameez top, or breathable traditional top",
+              "bottom": "Light cotton saree, breathable salwar, or modest traditional bottom",
+              "shoes": "Simple juttis, modest sandals, or comfortable traditional footwear",
+              "accessory": "Simple traditional jewelry, light dupatta, and modest accessories"
+            },
+            "normal": {
+              "top": "Traditional modest blouse, salwar kameez top, or cultural religious top",
+              "bottom": "Traditional saree, salwar, or modest religious bottom wear",
+              "shoes": "Traditional juttis, modest footwear, or cultural shoes",
+              "accessory": "Traditional religious jewelry, dupatta, and modest accessories"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Light cotton kurta, simple traditional shirt, or breathable religious top",
+              "bottom": "Cotton dhoti, light pajama, or breathable traditional bottom",
+              "shoes": "Simple mojaris, traditional sandals, or modest footwear",
+              "accessory": "Traditional cap/headwear, simple religious accessories"
+            },
+            "normal": {
+              "top": "Traditional kurta, religious jacket, or cultural top",
+              "bottom": "Traditional dhoti, religious pajama, or cultural bottom",
+              "shoes": "Traditional mojaris, religious footwear, or cultural shoes",
+              "accessory": "Traditional religious headwear, stole, and modest accessories"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Lightweight modest traditional top appropriate for your gender expression",
+              "bottom": "Lightweight modest traditional bottom appropriate for religious settings",
+              "shoes": "Simple traditional footwear suitable for religious venues",
+              "accessory": "Modest traditional accessories appropriate for religious events"
+            },
+            "normal": {
+              "top": "Modest traditional top appropriate for your gender expression",
+              "bottom": "Modest traditional bottom appropriate for religious settings",
+              "shoes": "Traditional footwear suitable for religious venues",
+              "accessory": "Traditional accessories appropriate for religious events"
+            }
+          }
+        },
+        "generic": {
+          "female": {
+            "hot": {
+              "top": "Lightweight modest blouse, breathable conservative top, or light sleeve coverage",
+              "bottom": "Modest skirt below knees, lightweight conservative pants, or modest dress",
+              "shoes": "Simple closed flats, modest sandals, or conservative footwear",
+              "accessory": "Simple modest jewelry, light head covering if required, and modest bag"
+            },
+            "normal": {
+              "top": "Modest blouse with sleeves, conservative top, or religious appropriate coverage",
+              "bottom": "Modest skirt below knees, conservative pants, or modest dress",
+              "shoes": "Closed conservative shoes, modest heels, or religious appropriate footwear",
+              "accessory": "Simple modest jewelry, appropriate head covering if required, and modest bag"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Lightweight button-up shirt, breathable modest top, or light religious appropriate wear",
+              "bottom": "Lightweight formal pants, modest trousers, or religious appropriate bottoms",
+              "shoes": "Simple closed shoes, modest footwear, or conservative sandals",
+              "accessory": "Religious appropriate head covering if required, simple modest accessories"
+            },
+            "normal": {
+              "top": "Button-up shirt, modest top, or religious appropriate wear",
+              "bottom": "Formal pants, modest trousers, or religious appropriate bottoms",
+              "shoes": "Closed conservative shoes, modest footwear, or religious appropriate shoes",
+              "accessory": "Religious appropriate head covering if required, modest accessories"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Lightweight modest top appropriate for religious settings and your gender expression",
+              "bottom": "Lightweight modest bottom appropriate for religious settings",
+              "shoes": "Simple modest footwear suitable for religious venues",
+              "accessory": "Modest accessories appropriate for religious events"
+            },
+            "normal": {
+              "top": "Modest top appropriate for religious settings and your gender expression",
+              "bottom": "Modest bottom appropriate for religious settings",
+              "shoes": "Modest footwear suitable for religious venues",
+              "accessory": "Modest accessories appropriate for religious events"
+            }
+          }
+        }
+      },
+      "formal": {
+        "generic": {
+          "female": {
+            "hot": {
+              "top": "Lightweight formal blouse, breathable blazer, or sleeveless formal top",
+              "bottom": "Light formal skirt, breathable dress pants, or formal dress",
+              "shoes": "Formal open-toe heels, elegant sandals, or formal flats",
+              "accessory": "Simple elegant jewelry, small clutch, and minimal accessories"
+            },
+            "normal": {
+              "top": "Formal blouse, business blazer, or elegant formal top",
+              "bottom": "Formal skirt, dress pants, or formal dress",
+              "shoes": "Formal heels, elegant flats, or formal boots",
+              "accessory": "Professional jewelry, formal bag, and elegant accessories"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Lightweight formal shirt, light blazer optional, or breathable formal top",
+              "bottom": "Lightweight formal trousers or breathable dress pants",
+              "shoes": "Formal leather shoes or elegant loafers",
+              "accessory": "Minimal accessories - perhaps just a formal watch, optional tie"
+            },
+            "normal": {
+              "top": "Formal shirt, business blazer, or formal suit jacket",
+              "bottom": "Formal trousers or suit pants",
+              "shoes": "Formal leather shoes or dress shoes",
+              "accessory": "Tie, cufflinks, formal watch, and professional accessories"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Lightweight formal top appropriate for your gender expression",
+              "bottom": "Lightweight formal bottom appropriate for professional settings",
+              "shoes": "Breathable formal footwear",
+              "accessory": "Minimal formal accessories"
+            },
+            "normal": {
+              "top": "Formal top appropriate for your gender expression",
+              "bottom": "Formal bottom appropriate for professional settings",
+              "shoes": "Formal footwear",
+              "accessory": "Professional accessories appropriate for formal settings"
+            }
+          }
+        }
+      },
+      "casual": {
+        "generic": {
+          "female": {
+            "hot": {
+              "top": "Light t-shirt, breathable blouse, or summer tank top",
+              "bottom": "Casual shorts, light skirt, or breathable pants",
+              "shoes": "Comfortable sandals, casual flats, or light sneakers",
+              "accessory": "Sunglasses, casual hat, or simple jewelry"
+            },
+            "normal": {
+              "top": "Casual blouse, t-shirt, or light sweater",
+              "bottom": "Jeans, casual pants, or casual skirt",
+              "shoes": "Casual sneakers, comfortable boots, or everyday flats",
+              "accessory": "Casual jewelry, everyday bag, or simple scarf"
+            },
+            "cold": {
+              "top": "Warm sweater, casual jacket, or layered tops",
+              "bottom": "Warm jeans, thick pants, or winter skirt with leggings",
+              "shoes": "Warm boots, insulated sneakers, or cozy footwear",
+              "accessory": "Winter scarf, gloves, and warm hat"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Light t-shirt, breathable casual shirt, or tank top",
+              "bottom": "Casual shorts, light pants, or breathable jeans",
+              "shoes": "Casual sandals, light sneakers, or comfortable slip-ons",
+              "accessory": "Sunglasses, casual hat, or simple watch"
+            },
+            "normal": {
+              "top": "Casual shirt, t-shirt, or light sweater",
+              "bottom": "Jeans, casual pants, or khakis",
+              "shoes": "Casual sneakers, everyday boots, or comfortable shoes",
+              "accessory": "Casual watch, simple belt, or everyday cap"
+            },
+            "cold": {
+              "top": "Warm sweater, casual jacket, or layered shirts",
+              "bottom": "Warm jeans, thick pants, or insulated bottoms",
+              "shoes": "Warm boots, insulated sneakers, or winter shoes",
+              "accessory": "Winter beanie, gloves, and warm scarf"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Light casual top appropriate for your gender expression",
+              "bottom": "Light casual bottom appropriate for hot weather",
+              "shoes": "Comfortable casual footwear suitable for hot weather",
+              "accessory": "Simple casual accessories appropriate for hot weather"
+            },
+            "normal": {
+              "top": "Casual top appropriate for your gender expression",
+              "bottom": "Casual bottom appropriate for everyday wear",
+              "shoes": "Comfortable everyday footwear",
+              "accessory": "Simple casual accessories"
+            },
+            "cold": {
+              "top": "Warm casual top appropriate for your gender expression",
+              "bottom": "Warm casual bottom appropriate for cold weather",
+              "shoes": "Insulated footwear suitable for cold weather",
+              "accessory": "Warm winter accessories"
+            }
+          }
+        }
+      },
+      "beach": {
+        "generic": {
+          "female": {
+            "hot": {
+              "top": "Swimsuit top, beach cover-up, or light summer top",
+              "bottom": "Swimsuit bottom, beach shorts, or light summer skirt",
+              "shoes": "Flip-flops, beach sandals, or water-friendly footwear",
+              "accessory": "Sunglasses, sun hat, beach bag, and sunscreen"
+            },
+            "normal": {
+              "top": "Swimsuit top with cover-up, light beach top, or casual summer shirt",
+              "bottom": "Swimsuit bottom with wrap, beach pants, or casual summer skirt",
+              "shoes": "Beach sandals, casual flip-flops, or water-friendly shoes",
+              "accessory": "Sunglasses, beach hat, and casual beach accessories"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Swim shirt, light t-shirt, or no top (for swimming)",
+              "bottom": "Swim shorts, board shorts, or light beach shorts",
+              "shoes": "Flip-flops, beach sandals, or water-friendly footwear",
+              "accessory": "Sunglasses, sun hat, and waterproof watch"
+            },
+            "normal": {
+              "top": "Casual beach shirt, light t-shirt, or swim shirt",
+              "bottom": "Beach shorts, swim trunks, or casual summer shorts",
+              "shoes": "Beach sandals, casual flip-flops, or water-friendly shoes",
+              "accessory": "Sunglasses, beach hat, and casual beach accessories"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Beach-appropriate top suitable for your gender expression",
+              "bottom": "Beach-appropriate bottom suitable for swimming or beach activities",
+              "shoes": "Water-friendly footwear suitable for the beach",
+              "accessory": "Sun protection accessories (sunglasses, hat) and beach essentials"
+            },
+            "normal": {
+              "top": "Casual beach top suitable for your gender expression",
+              "bottom": "Casual beach bottom suitable for beach activities",
+              "shoes": "Beach-appropriate footwear",
+              "accessory": "Beach accessories and sun protection items"
+            }
+          }
+        }
+      },
+      "gym": {
+        "generic": {
+          "female": {
+            "hot": {
+              "top": "Breathable sports bra, moisture-wicking tank top, or light workout shirt",
+              "bottom": "Workout shorts, light leggings, or breathable yoga pants",
+              "shoes": "Supportive athletic shoes, training sneakers, or workout-specific footwear",
+              "accessory": "Sweat towel, water bottle, and minimal workout jewelry"
+            },
+            "normal": {
+              "top": "Sports bra with workout top, athletic shirt, or fitness tank",
+              "bottom": "Workout leggings, athletic shorts, or gym pants",
+              "shoes": "Training shoes, athletic sneakers, or workout-specific footwear",
+              "accessory": "Fitness watch, gym bag, and workout essentials"
+            }
+          },
+          "male": {
+            "hot": {
+              "top": "Breathable workout shirt, moisture-wicking tank, or light athletic top",
+              "bottom": "Workout shorts, light training pants, or breathable athletic bottoms",
+              "shoes": "Supportive athletic shoes, training sneakers, or workout-specific footwear",
+              "accessory": "Sweat towel, water bottle, and minimal workout accessories"
+            },
+            "normal": {
+              "top": "Athletic t-shirt, workout top, or training shirt",
+              "bottom": "Workout shorts, training pants, or gym bottoms",
+              "shoes": "Training shoes, athletic sneakers, or workout-specific footwear",
+              "accessory": "Fitness watch, gym bag, and workout essentials"
+            }
+          },
+          "other": {
+            "hot": {
+              "top": "Breathable workout top appropriate for your gender expression",
+              "bottom": "Breathable workout bottom suitable for exercise",
+              "shoes": "Supportive athletic footwear appropriate for your workout",
+              "accessory": "Essential workout accessories (towel, water bottle)"
+            },
+            "normal": {
+              "top": "Comfortable workout top appropriate for your gender expression",
+              "bottom": "Comfortable workout bottom suitable for exercise",
+              "shoes": "Supportive athletic footwear appropriate for your workout",
+              "accessory": "Workout accessories and fitness essentials"
+            }
+          }
+        }
+      }
+    }
+    
+  

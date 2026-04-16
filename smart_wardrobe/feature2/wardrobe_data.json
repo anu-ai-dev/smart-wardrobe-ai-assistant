@@ -1,0 +1,126 @@
+{
+    "demo_user": {
+        "clothing_items": [
+            {
+                "category": "Casual",
+                "item_name": "T-Shirt",
+                "brand": "H&M",
+                "color": [
+                    "Blue"
+                ],
+                "material": "Cotton",
+                "size": "M",
+                "pattern": "Solid",
+                "style": "Modern",
+                "occasion": "Casual",
+                "worn_count": 0,
+                "image": null,
+                "pairings": []
+            },
+            {
+                "category": "Accessories",
+                "item_name": "Watch",
+                "brand": "Fossil",
+                "color": [
+                    "Black"
+                ],
+                "material": "Leather",
+                "size": "M",
+                "pattern": "Solid",
+                "style": "Classic",
+                "occasion": "Formal",
+                "worn_count": 0,
+                "image": null,
+                "pairings": []
+            },
+            {
+                "category": "Shoes",
+                "item_name": "Sneakers",
+                "brand": "Nike",
+                "color": [
+                    "White"
+                ],
+                "material": "Leather",
+                "size": "L",
+                "pattern": "Solid",
+                "style": "Streetwear",
+                "occasion": "Casual",
+                "worn_count": 0,
+                "image": null,
+                "pairings": []
+            }
+        ]
+    },
+    "Anuradha": {
+        "clothing_items": [
+            {
+                "category": "Formal",
+                "item_name": " sweater",
+                "brand": "zara",
+                "color": [
+                    "Blue"
+                ],
+                "material": "Cotton",
+                "size": "S",
+                "pattern": "Solid",
+                "style": "Modern",
+                "occasion": "Casual",
+                "worn_count": 0,
+                "image": "C:\\Users\\T Anuradha\\AppData\\Local\\Temp\\gradio\\3d3d28a7d57b40bc552d2f1aa66953560057a08de38e7ef638efd1bd8f4db224\\image.jpg",
+                "pairings": [],
+                "favorite": true
+            },
+            {
+                "category": "Accessories",
+                "item_name": "Sunglasses",
+                "brand": "Ray-Ban",
+                "color": [
+                    "Blue"
+                ],
+                "material": "Leather",
+                "size": "S",
+                "pattern": "Solid",
+                "style": "Vintage",
+                "occasion": "Work",
+                "worn_count": 0,
+                "image": null,
+                "pairings": [],
+                "favorite": false
+            },
+            {
+                "category": "Perfume",
+                "item_name": "Chanel No.5",
+                "brand": "Chanel",
+                "color": [
+                    "Blue"
+                ],
+                "material": "Silk",
+                "size": "S",
+                "pattern": "Solid",
+                "style": "Modern",
+                "occasion": "Work",
+                "worn_count": 0,
+                "image": null,
+                "pairings": [],
+                "favorite": false
+            },
+            {
+                "category": "Hairstyle",
+                "item_name": "Slick Back",
+                "brand": "Hairdo",
+                "color": [
+                    "Red"
+                ],
+                "material": "Leather",
+                "size": "L",
+                "pattern": "Striped",
+                "style": "Modern",
+                "occasion": "Party",
+                "worn_count": 0,
+                "image": null,
+                "pairings": [],
+                "favorite": false
+            }
+        ]
+    }
+}

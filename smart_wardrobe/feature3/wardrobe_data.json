@@ -1,0 +1,55 @@
+{
+  "Anuradha": {
+    "clothing_items": [
+      {
+        "item_name": "White Cotton T-Shirt",
+        "category": "top",
+        "material": "cotton",
+        "occasion": "Casual",
+        "favorite": true
+      },
+      {
+        "item_name": "Denim Jeans",
+        "category": "bottom",
+        "material": "denim",
+        "occasion": "Casual",
+        "favorite": false
+      },
+      {
+        "item_name": "Sneakers",
+        "category": "footwear",
+        "material": "canvas",
+        "occasion": "Casual",
+        "favorite": true
+      },
+      {
+        "item_name": "Wool Jacket",
+        "category": "top",
+        "material": "wool",
+        "occasion": "Winter",
+        "favorite": false
+      },
+      {
+        "item_name": "Black Tank Top",
+        "category": "Top",
+        "occasion": "Gym",
+        "material": "Cotton",
+        "favorite": true
+      },
+      {
+        "item_name": "Yoga Pants",
+        "category": "Bottom",
+        "occasion": "Gym",
+        "material": "Spandex",
+        "favorite": false
+      },
+      {
+        "item_name": "Sneakers",
+        "category": "Footwear",
+        "occasion": "Gym",
+        "material": "Synthetic",
+        "favorite": true
+      }
+    ]
+  }
+}

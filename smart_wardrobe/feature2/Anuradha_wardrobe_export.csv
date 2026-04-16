@@ -1,0 +1,5 @@
+category,item_name,brand,color,material,size,pattern,style,occasion,worn_count,image,pairings,favorite
+Formal, sweater,zara,['Blue'],Cotton,S,Solid,Modern,Casual,0,C:\Users\T Anuradha\AppData\Local\Temp\gradio\3d3d28a7d57b40bc552d2f1aa66953560057a08de38e7ef638efd1bd8f4db224\image.jpg,[],True
+Accessories,Sunglasses,Ray-Ban,['Blue'],Leather,S,Solid,Vintage,Work,0,,[],False
+Perfume,Chanel No.5,Chanel,['Blue'],Silk,S,Solid,Modern,Work,0,,[],False
+Hairstyle,Slick Back,Hairdo,['Red'],Leather,L,Striped,Modern,Party,0,,[],False
